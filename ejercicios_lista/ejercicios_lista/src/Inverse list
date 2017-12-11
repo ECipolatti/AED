@@ -1,0 +1,3 @@
+Void inverse (list &l){
+ list <int>::iterator p
+}
